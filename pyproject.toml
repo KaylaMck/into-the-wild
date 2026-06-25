@@ -1,7 +1,7 @@
 [project]
 name = "into-the-wild"
 version = "0.1.0"
-description = "National park safety and crime analysis pipeline"
+description = "National park safety and crime analysis pipeline — Dagster, dbt, MotherDuck, and Rill"
 readme = "README.md"
 requires-python = ">=3.13"
 
