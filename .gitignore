@@ -8,3 +8,23 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Secrets
+.env
+
+# Dagster
+.tmp_dagster_home*/
+dagster_home/
+
+# dbt
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+
+# DuckDB local files
+*.duckdb
+*.duckdb.wal
+
+# OS
+.DS_Store
+Thumbs.db
